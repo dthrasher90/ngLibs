@@ -1,0 +1,72 @@
+body{
+text-align: center;
+margin: 3em auto;
+}
+.wrapper{
+  margin: 0 auto;
+  text-align: center;
+  border: 3px solid black;
+  width: 600px;
+  margin-left: 25%;
+
+}
+.headWrapper{
+
+  height: 100px;
+  width: 600px;
+  border: 1px solid black;
+  clear: both;
+  display: flex;
+}
+
+.logo{
+
+  height: 100px;
+  width: 25%;
+  border: 1px solid black;
+}
+
+.smiley{
+  margin-top: 5px;
+}
+
+.nglogo{
+  margin-top: 5px;
+}
+
+.title{
+  height: 100px;
+  width: 75%;
+
+}
+.mainWrapper{
+
+  clear: both;
+  height: 600px;
+  width: 600px;
+  border:  1px solid black;
+}
+
+.inputSection {
+  height:  200px;
+  width: 600px;
+  clear: both;
+  border-bottom: 1px solid black;
+}
+
+table{
+  padding-top: 30px;
+}
+
+
+.storySection{
+
+  height: 400px;
+  width:  600px;
+
+}
+
+
+.clearfix{
+  clear:both;
+}
